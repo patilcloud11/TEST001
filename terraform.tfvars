@@ -135,8 +135,8 @@ backend_instance_type  = "t3.medium"   # Express.js API + PM2 cluster
 #   Backend repo root  → contains server.js at the ROOT level
 ###############################################################################
 
-github_repo_frontend = "git@github.com:VaibhavJC/dev.git"   # ← CHANGE THIS
-github_repo_backend  = "git@github.com:VaibhavJC/dev.git"    # ← CHANGE THIS
+github_repo_frontend = "git@github.com:patilcloud11/TEST001.git"   # ← CHANGE THIS
+github_repo_backend  = "git@github.com:patilcloud11/TEST001.git"    # ← CHANGE THIS
 
 
 ###############################################################################
